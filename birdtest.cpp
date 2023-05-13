@@ -1,19 +1,13 @@
 /*
 	You do not need this file
-	
+
 	birdtest is for testing bird, not for using bird to test your own code
-	
+
 	To use the bird testing file, simply include bird.h in the file you
-	want to write your tests in.
+	want to write your tests in
 */
 
 #include "bird.h"
-
-
-
-
-
-
 
 BIRD_SCOPE("Scope tier 1")
 {
